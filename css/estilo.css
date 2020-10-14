@@ -4,3 +4,27 @@
 	font-size: 20px;
 	background-color: #977CAD;
 }
+
+.footer{
+	display: block;
+	bottom: 0;
+	width: 100%
+	height: 60px;
+	background-color: #977CAD;
+	font-family: Arial; 
+	font-size: 14px;
+
+}
+
+#contacto{
+	color: #ffffff;
+	float: right;
+}
+
+#desarrollado p{
+	color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
